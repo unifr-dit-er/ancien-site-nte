@@ -1,2 +1,2 @@
 # ancien-site-nte
-https://nte-unifr.github.io/ancien-site-nte/
+https://unifr-dit-er.github.io/ancien-site-nte/
